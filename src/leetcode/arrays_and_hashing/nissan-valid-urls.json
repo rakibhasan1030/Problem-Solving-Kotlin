@@ -1,0 +1,2718 @@
+{
+  "status_code": "200",
+  "message": "success",
+  "owner_manuals": [
+    {
+      "vehicle_id": "1",
+      "vehicle_name": "Nissan ARIYA",
+      "model_years": [
+        {
+          "model_year_id": "11",
+          "year_name": "Nissan ARIYA 2022",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "1",
+              "lang_name": "English",
+              "lang_code": "en",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/english_HcqV9A8.png",
+              "weburl": "https://www.nissan.co.uk/owners/nissan-ownership/owners-manuals/manuals.html/iom/ariya/0fe0/e1/2022-present.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/ariya_0fe0_e1_2022-present/pdf/om22en-0fe0e1eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "2",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/ariya_0fe0_e1_2022/pdf/om22de-0fe0e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "3",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/ariya_0fe0_e1_2022/pdf/om22fr-0fe0e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "4",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/ariya_0fe0_e1_2022/pdf/om22it-0fe0e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "5",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/ariya_0fe0_e1_2022/pdf/om22es-0fe0e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "6",
+              "lang_id": "6",
+              "lang_name": "Nederlands",
+              "lang_code": "nl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/netherlands_Vwu35yA.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/nl/nl/ariya_0fe0_e1_2022/pdf/om22nl-0fe0e2eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "7",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/ariya_0fe0_e1_2022/pdf/om22sv-0fe0e2eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "8",
+              "lang_id": "9",
+              "lang_name": "Norsk",
+              "lang_code": "no",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/norway_arcrFio.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/no/no/ariya_0fe0_e1_2022/pdf/om22no-0fe0e2eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "9",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/ariya_0fe0_e1_2022/pdf/om22pl-0fe0e2eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "10",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/ariya_0fe0_e1_2022/pdf/om22fi-0fe0e2eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "11",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/ariya_0fe0_e1_2022/pdf/om22pt-0fe0e2eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "12",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/ariya_0fe0_e1_2022/pdf/om22da-0fe0e2eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "13",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/ariya_0fe0_e1_2022/pdf/om22et-0fe0e2eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "14",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/ariya_0fe0_e1_2022/pdf/om22lv-0fe0e2eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "15",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/ariya_0fe0_e1_2022/pdf/om22lt-0fe0e2eur.pdf",
+              "status": "1"
+            }
+          ]
+        },
+        {
+          "model_year_id": "12",
+          "year_name": "Nissan ARIYA 2023",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "2",
+              "lang_name": "English",
+              "lang_code": "en",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/english_HcqV9A8.png",
+              "weburl": "https://www.nissan.co.uk/owners/nissan-ownership/owners-manuals/manuals.html/iom/ariya/0fe0/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/ariya_0fe0_e1_2023/pdf/om23en-0fe0e1eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "2",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "https://www.nissan.de/kunden/benutzerhandb%C3%BCcher/benutzerhandb%C3%BCcher/iom/ariya/0fe0/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/ariya_0fe0_e0_2023/pdf/om23de-0fe0e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "3",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "https://www.nissan.fr/etre-proprietaire-d-une-nissan/manuels-utilisation/manuels/iom/ariya/0fe0/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/ariya_0fe0_e0_2023/pdf/om23fr-0fe0e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "4",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "https://www.nissan.it/servizi/manuali-per-il-proprietario-nissan/manuali/iom/ariya/0fe0/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/ariya_0fe0_e0_2023/pdf/om23it-0fe0e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "5",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "https://www.nissan.es/propietarios/manuales-del-propietario/manual-del-propietario/iom/ariya/0fe0/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/ariya_0fe0_e0_2023/pdf/om23es-0fe0e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "6",
+              "lang_id": "6",
+              "lang_name": "Nederlands",
+              "lang_code": "nl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/netherlands_Vwu35yA.png",
+              "weburl": "https://www.nissan.nl/Services/gebruikershandleidingen/handleidingen/iom/ariya/0fe0/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/nl/nl/ariya_0fe0_e0_2023/pdf/om23nl-0fe0e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "7",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "https://www.nissan.se/agande/agarmanualer/manueler/iom/ariya/0fe0/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/ariya_0fe0_e0_2023/pdf/om23sv-0fe0e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "8",
+              "lang_id": "9",
+              "lang_name": "Norsk",
+              "lang_code": "no",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/norway_arcrFio.png",
+              "weburl": "https://www.nissan.no/eierskap/brukerhandboker/instruksjonsboker/iom/ariya/0fe0/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/no/no/ariya_0fe0_e0_2023/pdf/om23no-0fe0e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "9",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "https://www.nissan.pl/dla-wlasciciela/instrukcje-obslugi/instruktionsboger/iom/ariya/0fe0/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/ariya_0fe0_e0_2023/pdf/om23pl-0fe0e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "10",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "https://www.nissan.fi/omistajuus/omistajan-kasikirjat/kayttoohjekirjat/iom/ariya/0fe0/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/ariya_0fe0_e0_2023/pdf/om23fi-0fe0e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "11",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "https://www.nissan.pt/clientes/manuais-do-propriet%C3%A1rio-da/manuais/iom/ariya/0fe0/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/ariya_0fe0_e0_2023/pdf/om23pt-0fe0e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "12",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "https://www.nissan.dk/ejerskab/instruktionsboger/instruktionsboger/iom/ariya/0fe0/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/ariya_0fe0_e0_2023/pdf/om23da-0fe0e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "13",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "https://www.nissan.ee/omamine/omaniku-kasiraamatud/omaniku-kasiraamatud/iom/ariya/0fe0/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/ariya_0fe0_e0_2023/pdf/om23et-0fe0e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "14",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "https://www.nissan.lv/nissan-automobilu-ipasniekiem/ipasnieka-rokasgramatas/rokasgramatas/iom/ariya/0fe0/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/ariya_0fe0_e0_2023/pdf/om23lv-0fe0e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "15",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "https://www.nissan.lt/savininkui/instrukcijos/naudotoju-vadovai/iom/ariya/0fe0/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/ariya_0fe0_e0_2023/pdf/om23lt-0fe0e0eur.pdf",
+              "status": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "vehicle_id": "2",
+      "vehicle_name": "Nissan Juke",
+      "model_years": [
+        {
+          "model_year_id": "21",
+          "year_name": "Nissan Juke 2022",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "1",
+              "lang_name": "English",
+              "lang_code": "en",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/english_HcqV9A8.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/juke_0f16_e0_2022-present/pdf/om22en-0f16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "2",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/juke_0f16_e0_2022/pdf/om22de-0f16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "3",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/juke_0f16_e0_2022/pdf/om22fr-0f16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "4",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/juke_0f16_e0_2022/pdf/om22fr-0f16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "5",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/juke_0f16_e0_2022/pdf/om22es-0f16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "6",
+              "lang_id": "6",
+              "lang_name": "Nederlands",
+              "lang_code": "nl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/netherlands_Vwu35yA.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/nl/nl/juke_0f16_e0_2022/pdf/om22nl-0f16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "7",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/juke_0f16_e0_2022/pdf/om22sv-0f16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "8",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/juke_0f16_e0_2022/pdf/om22pl-0f16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "9",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/juke_0f16_e0_2022/pdf/om22fi-0f16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "10",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/juke_0f16_e0_2022/pdf/om22pt-0f16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "11",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/juke_0f16_e0_2022/pdf/om22da-0f16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "12",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/juke_0f16_e0_2022/pdf/om22et-0f16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "13",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/juke_0f16_e0_2022/pdf/om22lv-0f16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "14",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/juke_0f16_e0_2022/pdf/om22lt-0f16e0eur.pdf",
+              "status": "1"
+            }
+          ]
+        },
+        {
+          "model_year_id": "22",
+          "year_name": "Nissan Juke 2023",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "https://www.nissan.de/kunden/benutzerhandb%C3%BCcher/benutzerhandb%C3%BCcher/iom/juke/0f16/e2/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/juke_0f16_e2_2023/pdf/om23de-0f16e2eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "2",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "https://www.nissan.fr/etre-proprietaire-d-une-nissan/manuels-utilisation/manuels/iom/juke/0f16/e2/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/juke_0f16_e0_2023/pdf/om23fr-0f16e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "3",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "https://www.nissan.it/servizi/manuali-per-il-proprietario-nissan/manuali/iom/juke/0f16/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/juke_0f16_e0_2023/pdf/om23it-0f16e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "4",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "https://www.nissan.es/propietarios/manuales-del-propietario/manual-del-propietario/iom/juke/0f16/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/juke_0f16_e0_2023/pdf/om23es-0f16e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "5",
+              "lang_id": "6",
+              "lang_name": "Nederlands",
+              "lang_code": "nl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/netherlands_Vwu35yA.png",
+              "weburl": "https://www.nissan.nl/Services/gebruikershandleidingen/handleidingen/iom/juke/0f16/e2/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/nl/nl/juke_0f16_e2_2023/pdf/om23nl-0f16e2eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "6",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "https://www.nissan.se/agande/agarmanualer/manueler/iom/juke/0f16/e2/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/juke_0f16_e2_2023/pdf/om23sv-0f16e2eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "7",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "https://www.nissan.pl/dla-wlasciciela/instrukcje-obslugi/instruktionsboger/iom/juke/0f16/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/juke_0f16_e0_2023/pdf/om23pl-0f16e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "8",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "https://www.nissan.fi/omistajuus/omistajan-kasikirjat/kayttoohjekirjat/iom/juke/0f16/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/juke_0f16_e0_2023/pdf/om23fi-0f16e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "9",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "https://www.nissan.pt/clientes/manuais-do-propriet%C3%A1rio-da/manuais/iom/juke/0f16/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/juke_0f16_e0_2023/pdf/om23pt-0f16e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "10",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "https://www.nissan.dk/ejerskab/instruktionsboger/instruktionsboger/iom/juke/0f16/e2/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/juke_0f16_e2_2023/pdf/om23da-0f16e2eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "11",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "https://www.nissan.ee/omamine/omaniku-kasiraamatud/omaniku-kasiraamatud/iom/juke/0f16/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/juke_0f16_e0_2023/pdf/om23et-0f16e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "12",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "https://www.nissan.lv/nissan-automobilu-ipasniekiem/ipasnieka-rokasgramatas/rokasgramatas/iom/juke/0f16/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/juke_0f16_e0_2023/pdf/om23lv-0f16e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "13",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "https://www.nissan.lt/savininkui/instrukcijos/naudotoju-vadovai/iom/juke/0f16/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/juke_0f16_e0_2023/pdf/om23lt-0f16e0eur.pdf",
+              "status": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "vehicle_id": "3",
+      "vehicle_name": "Nissan Juke Hybrid",
+      "model_years": [
+        {
+          "model_year_id": "31",
+          "year_name": "Nissan Juke Hybrid 2022",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "1",
+              "lang_name": "English",
+              "lang_code": "en",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/english_HcqV9A8.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/jukeepower_hf16_e0_2022-present/pdf/om22en-hf16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "2",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/jukehybrid_hf16_e0_2022/pdf/om22de-hf16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "3",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/jukehybrid_hf16_e0_2022/pdf/om22fr-hf16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "4",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/jukehybrid_hf16_e0_2022/pdf/om22it-hf16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "5",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/jukehybrid_hf16_e0_2022/pdf/om22es-hf16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "6",
+              "lang_id": "6",
+              "lang_name": "Nederlands",
+              "lang_code": "nl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/netherlands_Vwu35yA.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/nl/nl/jukehybrid_hf16_e0_2022/pdf/om22nl-hf16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "7",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/jukehybrid_hf16_e0_2022/pdf/om22sv-hf16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "8",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/jukehybrid_hf16_e0_2022/pdf/om22pl-hf16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "9",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/jukehybrid_hf16_e0_2022/pdf/om22fi-hf16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "10",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/jukehybrid_hf16_e0_2022/pdf/om22pt-hf16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "11",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/jukehybrid_hf16_e0_2022/pdf/om22da-hf16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "12",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/jukehybrid_hf16_e0_2022/pdf/om22et-hf16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "13",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/jukehybrid_hf16_e0_2022/pdf/om22lv-hf16e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "14",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/jukehybrid_hf16_e0_2022/pdf/om22lt-hf16e0eur.pdf",
+              "status": "1"
+            }
+          ]
+        },
+        {
+          "model_year_id": "32",
+          "year_name": "Nissan Juke Hybrid 2023",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "https://www.nissan.de/kunden/benutzerhandb%C3%BCcher/benutzerhandb%C3%BCcher/iom/jukehybrid/hf16/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/jukehybrid_hf16_e1_2023/pdf/om23de-hf16e1eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "2",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "https://www.nissan.fr/etre-proprietaire-d-une-nissan/manuels-utilisation/manuels/iom/jukehybrid/hf16/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/jukehybrid_hf16_e1_2023/pdf/om23fr-hf16e1eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "3",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "https://www.nissan.it/servizi/manuali-per-il-proprietario-nissan/manuali/iom/jukehybrid/hf16/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/jukehybrid_hf16_e0_2023/pdf/om23it-hf16e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "4",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "https://www.nissan.es/propietarios/manuales-del-propietario/manual-del-propietario/iom/jukehybrid/hf16/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/jukehybrid_hf16_e1_2023/pdf/om23es-hf16e1eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "5",
+              "lang_id": "6",
+              "lang_name": "Nederlands",
+              "lang_code": "nl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/netherlands_Vwu35yA.png",
+              "weburl": "https://www.nissan.nl/Services/gebruikershandleidingen/handleidingen/iom/jukehybrid/hf16/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/nl/nl/jukehybrid_hf16_e0_2023/pdf/om23nl-hf16e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "6",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "https://www.nissan.se/agande/agarmanualer/manueler/iom/jukehybrid/hf16/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/jukehybrid_hf16_e0_2023/pdf/om23sv-hf16e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "7",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "https://www.nissan.pl/dla-wlasciciela/instrukcje-obslugi/instruktionsboger/iom/jukehybrid/hf16/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/jukehybrid_hf16_e0_2023/pdf/om23pl-hf16e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "8",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "https://www.nissan.fi/omistajuus/omistajan-kasikirjat/kayttoohjekirjat/iom/jukehybrid/hf16/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/jukehybrid_hf16_e0_2023/pdf/om23et-hf16e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "9",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "https://www.nissan.pt/clientes/manuais-do-propriet%C3%A1rio-da/manuais/iom/jukehybrid/hf16/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/jukehybrid_hf16_e1_2023/pdf/om23pt-hf16e1eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "10",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "https://www.nissan.dk/ejerskab/instruktionsboger/instruktionsboger/iom/jukehybrid/hf16/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/jukehybrid_hf16_e1_2023/pdf/om23da-hf16e1eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "11",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "https://www.nissan.ee/omamine/omaniku-kasiraamatud/omaniku-kasiraamatud/iom/jukehybrid/hf16/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/jukehybrid_hf16_e0_2023/pdf/om23et-hf16e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "12",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "https://www.nissan.lv/nissan-automobilu-ipasniekiem/ipasnieka-rokasgramatas/rokasgramatas/iom/jukehybrid/hf16/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/jukehybrid_hf16_e1_2023/pdf/om23lv-hf16e1eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "13",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "https://www.nissan.lt/savininkui/instrukcijos/naudotoju-vadovai/iom/jukehybrid/hf16/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/jukehybrid_hf16_e1_2023/pdf/om23lt-hf16e1eur.pdf",
+              "status": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "vehicle_id": "4",
+      "vehicle_name": "Nissan LEAF",
+      "model_years": [
+        {
+          "model_year_id": "41",
+          "year_name": "Nissan LEAF 2022 0ze1",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/leaf_0ze1_e0_2022/pdf/om22de-0ze1e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "2",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/leaf_0ze1_e0_2022/pdf/om22fr-0ze1e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "3",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/leaf_0ze1_e0_2022/pdf/om22it-0ze1e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "4",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/leaf_0ze1_e0_2022/pdf/om22es-0ze1e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "5",
+              "lang_id": "6",
+              "lang_name": "Nederlands",
+              "lang_code": "nl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/netherlands_Vwu35yA.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/nl/nl/leaf_0ze1_e0_2022/pdf/om22nl-0ze1e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "6",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/leaf_0ze1_e0_2022/pdf/om22sv-0ze1e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "7",
+              "lang_id": "9",
+              "lang_name": "Norsk",
+              "lang_code": "no",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/norway_arcrFio.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/no/no/leaf_0ze1_e0_2022/pdf/om22no-0ze1e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "8",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/leaf_0ze1_e0_2022/pdf/om22pl-0ze1e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "9",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/leaf_0ze1_e0_2022/pdf/om22fi-0ze1e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "10",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/leaf_0ze1_e0_2022/pdf/om22pt-0ze1e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "11",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/leaf_0ze1_e0_2022/pdf/om22da-0ze1e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "12",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/leaf_0ze1_e0_2022/pdf/om22et-0ze1e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "13",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/leaf_0ze1_e0_2022/pdf/om22lv-0ze1e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "14",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/leaf_0ze1_e0_2022/pdf/om22lt-0ze1e0eur.pdf",
+              "status": "1"
+            }
+          ]
+        },
+        {
+          "model_year_id": "42",
+          "year_name": "Nissan LEAF 2022 znva",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/leaf_znva_e0_2022/pdf/nm22de-znvae0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "2",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/leaf_znva_e0_2022/pdf/nm22fr-znvae0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "3",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/leaf_znva_e0_2022/pdf/nm22it-znvae0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "4",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/leaf_znva_e0_2022/pdf/nm22es-znvae0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "5",
+              "lang_id": "6",
+              "lang_name": "Nederlands",
+              "lang_code": "nl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/netherlands_Vwu35yA.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/nl/nl/leaf_znva_e0_2022/pdf/nm22nl-znvae0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "6",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/leaf_znva_e0_2022/pdf/nm22sv-znvae0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "7",
+              "lang_id": "9",
+              "lang_name": "Norsk",
+              "lang_code": "no",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/norway_arcrFio.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/no/no/leaf_znva_e0_2022/pdf/nm22no-znvae0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "8",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/leaf_znva_e0_2022/pdf/nm22pl-znvae0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "9",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/leaf_znva_e0_2022/pdf/nm22fi-znvae0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "10",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/leaf_znva_e0_2022/pdf/nm22pt-znvae0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "11",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/leaf_znva_e0_2022/pdf/nm22da-znvae0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "12",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/leaf_znva_e0_2022/pdf/nm22et-znvae0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "13",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/leaf_znva_e0_2022/pdf/nm22lv-znvae0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "14",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/leaf_znva_e0_2022/pdf/nm22lt-znvae0eur.pdf",
+              "status": "1"
+            }
+          ]
+        },
+        {
+          "model_year_id": "43",
+          "year_name": "Nissan LEAF 2023 0ze1",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "1",
+              "lang_name": "English",
+              "lang_code": "en",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/english_HcqV9A8.png",
+              "weburl": "https://www.nissan.co.uk/owners/nissan-ownership/owners-manuals/manuals.html/iom/leaf/0ze1/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/leaf_0ze1_e0_2023/pdf/om23en-0ze1e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "2",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "https://www.nissan.de/kunden/benutzerhandb%C3%BCcher/benutzerhandb%C3%BCcher/iom/leaf/0ze1/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/leaf_0ze1_e0_2023/pdf/om23de-0ze1e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "3",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "https://www.nissan.fr/etre-proprietaire-d-une-nissan/manuels-utilisation/manuels/iom/leaf/0ze1/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/leaf_0ze1_e0_2023/pdf/om23fr-0ze1e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "4",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "https://www.nissan.it/servizi/manuali-per-il-proprietario-nissan/manuali/iom/leaf/0ze1/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/leaf_0ze1_e0_2023/pdf/om23it-0ze1e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "5",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "https://www.nissan.es/propietarios/manuales-del-propietario/manual-del-propietario/iom/leaf/0ze1/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/leaf_0ze1_e0_2023/pdf/om23es-0ze1e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "6",
+              "lang_id": "6",
+              "lang_name": "Nederlands",
+              "lang_code": "nl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/netherlands_Vwu35yA.png",
+              "weburl": "https://www.nissan.nl/Services/gebruikershandleidingen/handleidingen/iom/leaf/0ze1/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/nl/nl/leaf_0ze1_e0_2023/pdf/om23sv-0ze1e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "7",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "https://www.nissan.se/agande/agarmanualer/manueler/iom/leaf/0ze1/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/leaf_0ze1_e0_2023/pdf/om23sv-0ze1e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "8",
+              "lang_id": "9",
+              "lang_name": "Norsk",
+              "lang_code": "no",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/norway_arcrFio.png",
+              "weburl": "https://www.nissan.no/eierskap/brukerhandboker/instruksjonsboker/iom/leaf/0ze1/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/no/no/leaf_0ze1_e0_2023/pdf/om23no-0ze1e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "9",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "https://www.nissan.pl/dla-wlasciciela/instrukcje-obslugi/instruktionsboger/iom/leaf/0ze1/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/leaf_0ze1_e0_2023/pdf/om23pl-0ze1e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "10",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "https://www.nissan.fi/omistajuus/omistajan-kasikirjat/kayttoohjekirjat/iom/leaf/0ze1/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/leaf_0ze1_e0_2023/pdf/om23fi-0ze1e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "11",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "https://www.nissan.pt/clientes/manuais-do-propriet%C3%A1rio-da/manuais/iom/leaf/0ze1/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/leaf_0ze1_e0_2023/pdf/om23pt-0ze1e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "12",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "https://www.nissan.dk/ejerskab/instruktionsboger/instruktionsboger/iom/leaf/0ze1/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/leaf_0ze1_e0_2023/pdf/om23da-0ze1e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "13",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "https://www.nissan.ee/omamine/omaniku-kasiraamatud/omaniku-kasiraamatud/iom/leaf/0ze1/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/leaf_0ze1_e0_2023/pdf/om23et-0ze1e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "14",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "https://www.nissan.lv/nissan-automobilu-ipasniekiem/ipasnieka-rokasgramatas/rokasgramatas/iom/leaf/0ze1/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/leaf_0ze1_e0_2023/pdf/om23lv-0ze1e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "15",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "https://www.nissan.lt/savininkui/instrukcijos/naudotoju-vadovai/iom/leaf/0ze1/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/leaf_0ze1_e0_2023/pdf/om23lt-0ze1e0eur.pdf",
+              "status": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "vehicle_id": "5",
+      "vehicle_name": "Nissan Micra",
+      "model_years": [
+        {
+          "model_year_id": "51",
+          "year_name": "Nissan Micra 2021 0k14",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "1",
+              "lang_name": "English",
+              "lang_code": "en",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/english_HcqV9A8.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/micra_0k14_e0_2021-present/pdf/om21en-0k14e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "2",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/micra_0k14_e0_2021/pdf/om21de-0k14e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "3",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/micra_0k14_e0_2021/pdf/om21fr-0k14e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "4",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/micra_0k14_e0_2021/pdf/om21it-0k14e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "5",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/micra_0k14_e0_2021/pdf/om21es-0k14e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "6",
+              "lang_id": "6",
+              "lang_name": "Nederlands",
+              "lang_code": "nl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/netherlands_Vwu35yA.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/nl/nl/micra_0k14_e0_2021/pdf/om21nl-0k14e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "7",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/micra_0k14_e0_2021/pdf/om21sv-0k14e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "8",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/micra_0k14_e0_2021/pdf/om21pl-0k14e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "9",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/micra_0k14_e0_2021/pdf/om21fi-0k14e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "10",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/micra_0k14_e0_2021/pdf/om21pt-0k14e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "11",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/micra_0k14_e0_2021/pdf/om21da-0k14e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "12",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/micra_0k14_e0_2021/pdf/om21et-0k14e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "13",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/micra_0k14_e0_2021/pdf/om21lv-0k14e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "14",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/micra_0k14_e0_2021/pdf/om21lt-0k14e0eur.pdf",
+              "status": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "vehicle_id": "6",
+      "vehicle_name": "Nissan Qashqai",
+      "model_years": [
+        {
+          "model_year_id": "61",
+          "year_name": "Nissan Qashqai 2022",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/qashqai_0j12_e1_2022/pdf/om22de-0j12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "2",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/qashqai_0j12_e1_2022/pdf/om22fr-0j12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "3",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/qashqai_0j12_e1_2022/pdf/om22it-0j12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "4",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/qashqai_0j12_e1_2022/pdf/om22es-0j12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "5",
+              "lang_id": "6",
+              "lang_name": "Nederlands",
+              "lang_code": "nl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/netherlands_Vwu35yA.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/nl/nl/qashqai_0j12_e1_2022/pdf/om22nl-0j12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "6",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/qashqai_0j12_e1_2022/pdf/om22sv-0j12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "7",
+              "lang_id": "9",
+              "lang_name": "Norsk",
+              "lang_code": "no",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/norway_arcrFio.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/no/no/qashqai_0j12_e1_2022/pdf/om22no-0j12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "8",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/qashqai_0j12_e1_2022/pdf/om22pl-0j12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "9",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/qashqai_0j12_e1_2022/pdf/om22fi-0j12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "10",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/qashqai_0j12_e1_2022/pdf/om22pt-0j12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "11",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/qashqai_0j12_e1_2022/pdf/om22da-0j12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "12",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/qashqai_0j12_e1_2022/pdf/om22et-0j12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "13",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/qashqai_0j12_e1_2022/pdf/om22lv-0j12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "14",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/qashqai_0j12_e1_2022/pdf/om22lt-0j12e1eur.pdf",
+              "status": "1"
+            }
+          ]
+        },
+        {
+          "model_year_id": "62",
+          "year_name": "Nissan Qashqai 2023",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "1",
+              "lang_name": "English",
+              "lang_code": "en",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/english_HcqV9A8.png",
+              "weburl": "https://www.nissan.co.uk/owners/nissan-ownership/owners-manuals/manuals.html/iom/qashqai/0j12/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/qashqai_0j12_e1_2023/pdf/om23en-0j12e1eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "2",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "https://www.nissan.de/kunden/benutzerhandb%C3%BCcher/benutzerhandb%C3%BCcher/iom/qashqai/0j12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/qashqai_0j12_e0_2023/pdf/om23de-0j12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "3",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "https://www.nissan.fr/etre-proprietaire-d-une-nissan/manuels-utilisation/manuels/iom/qashqai/0j12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/qashqai_0j12_e0_2023/pdf/om23fr-0j12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "4",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "https://www.nissan.it/servizi/manuali-per-il-proprietario-nissan/manuali/iom/qashqai/0j12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/qashqai_0j12_e0_2023/pdf/om23it-0j12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "5",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "https://www.nissan.es/propietarios/manuales-del-propietario/manual-del-propietario/iom/qashqai/0j12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/qashqai_0j12_e0_2023/pdf/om23es-0j12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "6",
+              "lang_id": "6",
+              "lang_name": "Nederlands",
+              "lang_code": "nl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/netherlands_Vwu35yA.png",
+              "weburl": "https://www.nissan.nl/Services/gebruikershandleidingen/handleidingen/iom/qashqai/0j12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/nl/nl/qashqai_0j12_e0_2023/pdf/om23nl-0j12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "7",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "https://www.nissan.se/agande/agarmanualer/manueler/iom/qashqai/0j12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/qashqai_0j12_e0_2023/pdf/om23sv-0j12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "8",
+              "lang_id": "9",
+              "lang_name": "Norsk",
+              "lang_code": "no",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/norway_arcrFio.png",
+              "weburl": "https://www.nissan.no/eierskap/brukerhandboker/instruksjonsboker/iom/qashqai/0j12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/no/no/qashqai_0j12_e0_2023/pdf/om23no-0j12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "9",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "https://www.nissan.pl/dla-wlasciciela/instrukcje-obslugi/instruktionsboger/iom/qashqai/0j12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/qashqai_0j12_e0_2023/pdf/om23pl-0j12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "10",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "https://www.nissan.fi/omistajuus/omistajan-kasikirjat/kayttoohjekirjat/iom/qashqai/0j12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/qashqai_0j12_e0_2023/pdf/om23fi-0j12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "11",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "https://www.nissan.pt/clientes/manuais-do-propriet%C3%A1rio-da/manuais/iom/qashqai/0j12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/qashqai_0j12_e0_2023/pdf/om23pt-0j12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "12",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "https://www.nissan.dk/ejerskab/instruktionsboger/instruktionsboger/iom/qashqai/0j12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/qashqai_0j12_e0_2023/pdf/om23da-0j12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "13",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "https://www.nissan.ee/omamine/omaniku-kasiraamatud/omaniku-kasiraamatud/iom/qashqai/0j12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/qashqai_0j12_e0_2023/pdf/om23et-0j12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "14",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "https://www.nissan.lv/nissan-automobilu-ipasniekiem/ipasnieka-rokasgramatas/rokasgramatas/iom/qashqai/0j12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/qashqai_0j12_e0_2023/pdf/om23lv-0j12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "15",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "https://www.nissan.lt/savininkui/instrukcijos/naudotoju-vadovai/iom/qashqai/0j12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/qashqai_0j12_e0_2023/pdf/om23lt-0j12e0eur.pdf",
+              "status": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "vehicle_id": "7",
+      "vehicle_name": "Nissan Qashqai e-POWER",
+      "model_years": [
+        {
+          "model_year_id": "71",
+          "year_name": "Nissan Qashqai e-POWER 2022",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/qashqaiepower_hj12_e1_2022/pdf/om22de-hj12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "2",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/qashqaiepower_hj12_e1_2022/pdf/om22fr-hj12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "3",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/qashqaiepower_hj12_e1_2022/pdf/om22it-hj12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "4",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/qashqaiepower_hj12_e1_2022/pdf/om22es-hj12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "5",
+              "lang_id": "6",
+              "lang_name": "Nederlands",
+              "lang_code": "nl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/netherlands_Vwu35yA.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/nl/nl/qashqaiepower_hj12_e1_2022/pdf/om22nl-hj12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "6",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/qashqaiepower_hj12_e1_2022/pdf/om22sv-hj12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "7",
+              "lang_id": "9",
+              "lang_name": "Norsk",
+              "lang_code": "no",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/norway_arcrFio.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/no/no/qashqaiepower_hj12_e1_2022/pdf/om22no-hj12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "8",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/qashqaiepower_hj12_e1_2022/pdf/om22pl-hj12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "9",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/qashqaiepower_hj12_e1_2022/pdf/om22fi-hj12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "10",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/qashqaiepower_hj12_e1_2022/pdf/om22pt-hj12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "11",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/qashqaiepower_hj12_e1_2022/pdf/om22da-hj12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "12",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/qashqaiepower_hj12_e1_2022/pdf/om22et-hj12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "13",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/qashqaiepower_hj12_e1_2022/pdf/om22lv-hj12e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "14",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/qashqaiepower_hj12_e1_2022/pdf/om22lt-hj12e1eur.pdf",
+              "status": "1"
+            }
+          ]
+        },
+        {
+          "model_year_id": "72",
+          "year_name": "Nissan Qashqai e-POWER 2023",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "1",
+              "lang_name": "English",
+              "lang_code": "en",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/english_HcqV9A8.png",
+              "weburl": "https://www.nissan.co.uk/owners/nissan-ownership/owners-manuals/manuals.html/iom/qashqaiepower/hj12/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/qashqaiepower_hj12_e1_2023/pdf/om23en-hj12e1eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "2",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "https://www.nissan.de/kunden/benutzerhandb%C3%BCcher/benutzerhandb%C3%BCcher/iom/qashqaiepower/hj12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/qashqaiepower_hj12_e0_2023/pdf/om23de-hj12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "3",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "https://www.nissan.fr/etre-proprietaire-d-une-nissan/manuels-utilisation/manuels/iom/qashqaiepower/hj12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/qashqaiepower_hj12_e0_2023/pdf/om23fr-hj12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "4",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "https://www.nissan.it/servizi/manuali-per-il-proprietario-nissan/manuali/iom/qashqaiepower/hj12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/qashqaiepower_hj12_e0_2023/pdf/om23it-hj12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "5",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "https://www.nissan.es/propietarios/manuales-del-propietario/manual-del-propietario/iom/qashqaiepower/hj12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/qashqaiepower_hj12_e0_2023/pdf/om23es-hj12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "6",
+              "lang_id": "6",
+              "lang_name": "Nederlands",
+              "lang_code": "nl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/netherlands_Vwu35yA.png",
+              "weburl": "https://www.nissan.nl/Services/gebruikershandleidingen/handleidingen/iom/qashqaiepower/hj12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/nl/nl/qashqaiepower_hj12_e0_2023/pdf/om23nl-hj12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "7",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "https://www.nissan.se/agande/agarmanualer/manueler/iom/qashqaiepower/hj12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/qashqaiepower_hj12_e0_2023/pdf/om23sv-hj12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "8",
+              "lang_id": "9",
+              "lang_name": "Norsk",
+              "lang_code": "no",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/norway_arcrFio.png",
+              "weburl": "https://www.nissan.no/eierskap/brukerhandboker/instruksjonsboker/iom/qashqaiepower/hj12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/no/no/qashqaiepower_hj12_e0_2023/pdf/om23no-hj12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "9",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "https://www.nissan.pl/dla-wlasciciela/instrukcje-obslugi/instruktionsboger/iom/qashqaiepower/hj12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/qashqaiepower_hj12_e0_2023/pdf/om23pl-hj12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "10",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "https://www.nissan.fi/omistajuus/omistajan-kasikirjat/kayttoohjekirjat/iom/qashqaiepower/hj12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/qashqaiepower_hj12_e0_2023/pdf/om23fi-hj12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "11",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "https://www.nissan.pt/clientes/manuais-do-propriet%C3%A1rio-da/manuais/iom/qashqaiepower/hj12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/qashqaiepower_hj12_e0_2023/pdf/om23pt-hj12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "12",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "https://www.nissan.dk/ejerskab/instruktionsboger/instruktionsboger/iom/qashqaiepower/hj12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/qashqaiepower_hj12_e0_2023/pdf/om23da-hj12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "13",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "https://www.nissan.ee/omamine/omaniku-kasiraamatud/omaniku-kasiraamatud/iom/qashqaiepower/hj12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/qashqaiepower_hj12_e0_2023/pdf/om23et-hj12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "14",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "https://www.nissan.lv/nissan-automobilu-ipasniekiem/ipasnieka-rokasgramatas/rokasgramatas/iom/qashqaiepower/hj12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/qashqaiepower_hj12_e0_2023/pdf/om23lv-hj12e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "15",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "https://www.nissan.lt/savininkui/instrukcijos/naudotoju-vadovai/iom/qashqaiepower/hj12/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/qashqaiepower_hj12_e0_2023/pdf/om23lt-hj12e0eur.pdf",
+              "status": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "vehicle_id": "8",
+      "vehicle_name": "Nissan X-TRAIL",
+      "model_years": [
+        {
+          "model_year_id": "81",
+          "year_name": "Nissan X-Trail 2022-present",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/xtrail_0t33_e0_2022/pdf/om22de-0t33e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "2",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/xtrail_0t33_e0_2022/pdf/om22fr-0t33e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "3",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/xtrail_0t33_e0_2022/pdf/om22it-0t33e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "4",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/xtrail_0t33_e0_2022/pdf/om22es-0t33e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "5",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/xtrail_0t33_e0_2022/pdf/om22sv-0t33e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "6",
+              "lang_id": "9",
+              "lang_name": "Norsk",
+              "lang_code": "no",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/norway_arcrFio.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/no/no/xtrail_0t33_e0_2022/pdf/om22no-0t33e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "7",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/xtrail_0t33_e0_2022/pdf/om22pl-0t33e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "8",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/xtrail_0t33_e0_2022/pdf/om22fi-0t33e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "9",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/xtrail_0t33_e0_2022/pdf/om22pt-0t33e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "10",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/xtrail_0t33_e0_2022/pdf/om22da-0t33e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "11",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/xtrail_0t33_e0_2022/pdf/om22et-0t33e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "12",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/xtrail_0t33_e0_2022/pdf/om22lv-0t33e0eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "13",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/xtrail_0t33_e0_2022/pdf/om22lt-0t33e0eur.pdf",
+              "status": "1"
+            }
+          ]
+        },
+        {
+          "model_year_id": "82",
+          "year_name": "Nissan X-Trail 2023",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "1",
+              "lang_name": "English",
+              "lang_code": "en",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/english_HcqV9A8.png",
+              "weburl": "https://www.nissan.co.uk/owners/nissan-ownership/owners-manuals/manuals.html/iom/x-trail/0t33/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/x-trail_0t33_e1_2023/pdf/om23en-0t33e1eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "2",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "https://www.nissan.de/kunden/benutzerhandb%C3%BCcher/benutzerhandb%C3%BCcher/iom/xtrail/0t33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/xtrail_0t33_e0_2023/pdf/om23de-0t33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "3",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "https://www.nissan.fr/etre-proprietaire-d-une-nissan/manuels-utilisation/manuels/iom/xtrail/0t33/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/xtrail_0t33_e0_2023/pdf/om23fr-0t33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "4",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "https://www.nissan.it/servizi/manuali-per-il-proprietario-nissan/manuali/iom/xtrail/0t33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/xtrail_0t33_e0_2023/pdf/om23it-0t33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "5",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "https://www.nissan.es/propietarios/manuales-del-propietario/manual-del-propietario/iom/xtrail/0t33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/xtrail_0t33_e0_2023/pdf/om23es-0t33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "6",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "https://www.nissan.se/agande/agarmanualer/manueler/iom/xtrail/0t33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/xtrail_0t33_e0_2023/pdf/om23sv-0t33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "7",
+              "lang_id": "9",
+              "lang_name": "Norsk",
+              "lang_code": "no",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/norway_arcrFio.png",
+              "weburl": "https://www.nissan.no/eierskap/brukerhandboker/instruksjonsboker/iom/xtrail/0t33/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/no/no/xtrail_0t33_e0_2023/pdf/om23no-0t33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "8",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "https://www.nissan.pl/dla-wlasciciela/instrukcje-obslugi/instruktionsboger/iom/xtrail/0t33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/xtrail_0t33_e0_2023/pdf/om23pl-0t33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "9",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "https://www.nissan.fi/omistajuus/omistajan-kasikirjat/kayttoohjekirjat/iom/xtrail/0t33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/xtrail_0t33_e0_2023/pdf/om23fi-0t33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "10",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "https://www.nissan.pt/clientes/manuais-do-propriet%C3%A1rio-da/manuais/iom/xtrail/0t33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/xtrail_0t33_e0_2023/pdf/om23pt-0t33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "11",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "https://www.nissan.dk/ejerskab/instruktionsboger/instruktionsboger/iom/xtrail/0t33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/xtrail_0t33_e0_2023/pdf/om23da-0t33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "12",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "https://www.nissan.ee/omamine/omaniku-kasiraamatud/omaniku-kasiraamatud/iom/xtrail/0t33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/xtrail_0t33_e0_2023/pdf/om23et-0t33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "13",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "https://www.nissan.lv/nissan-automobilu-ipasniekiem/ipasnieka-rokasgramatas/rokasgramatas/iom/xtrail/0t33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/xtrail_0t33_e0_2023/pdf/om23lv-0t33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "14",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "https://www.nissan.lt/savininkui/instrukcijos/naudotoju-vadovai/iom/xtrail/0t33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/xtrail_0t33_e0_2023/pdf/om23lt-0t33e0eur.pdf",
+              "status": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "vehicle_id": "9",
+      "vehicle_name": "Nissan X-TRAIL E-POWER",
+      "model_years": [
+        {
+          "model_year_id": "91",
+          "year_name": "Nissan X-Trail E-POWER 2022",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/xtrailepower_ht33_e1_2022/pdf/om22de-ht33e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "2",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/xtrailepower_ht33_e1_2022/pdf/om22fr-ht33e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "3",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/xtrailepower_ht33_e1_2022/pdf/om22it-ht33e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "4",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/xtrailepower_ht33_e1_2022/pdf/om22es-ht33e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "5",
+              "lang_id": "6",
+              "lang_name": "Nederlands",
+              "lang_code": "nl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/netherlands_Vwu35yA.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/nl/nl/xtrailepower_ht33_e1_2022/pdf/om22nl-ht33e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "6",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/xtrailepower_ht33_e1_2022/pdf/om22sv-ht33e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "7",
+              "lang_id": "9",
+              "lang_name": "Norsk",
+              "lang_code": "no",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/norway_arcrFio.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/no/no/xtrailepower_ht33_e1_2022/pdf/om22no-ht33e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "8",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/xtrailepower_ht33_e1_2022/pdf/om22pl-ht33e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "9",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/xtrailepower_ht33_e1_2022/pdf/om22fi-ht33e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "10",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/xtrailepower_ht33_e1_2022/pdf/om22pt-ht33e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "11",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/xtrailepower_ht33_e1_2022/pdf/om22da-ht33e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "12",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/xtrailepower_ht33_e1_2022/pdf/om22et-ht33e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "13",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/xtrailepower_ht33_e1_2022/pdf/om22lv-ht33e1eur.pdf",
+              "status": "1"
+            },
+            {
+              "id": "14",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/xtrailepower_ht33_e1_2022/pdf/om22lt-ht33e1eur.pdf",
+              "status": "1"
+            }
+          ]
+        },
+        {
+          "model_year_id": "92",
+          "year_name": "Nissan X-Trail E-POWER 2023",
+          "language": [
+            {
+              "id": "1",
+              "lang_id": "1",
+              "lang_name": "English",
+              "lang_code": "en",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/english_HcqV9A8.png",
+              "weburl": "https://www.nissan.co.uk/owners/nissan-ownership/owners-manuals/manuals.html/iom/xtrailepower/ht33/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/xtrailepower_ht33_e1_2023/pdf/om23en-ht33e1eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "2",
+              "lang_id": "2",
+              "lang_name": "Deutsch",
+              "lang_code": "de",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/de_xs7lNQS.png",
+              "weburl": "https://www.nissan.de/kunden/benutzerhandb%C3%BCcher/benutzerhandb%C3%BCcher/iom/xtrailepower/ht33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/de/de/xtrailepower_ht33_e0_2023/pdf/om23de-ht33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "3",
+              "lang_id": "3",
+              "lang_name": "Francais",
+              "lang_code": "fr",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/france_wkvgRii.png",
+              "weburl": "https://www.nissan.fr/etre-proprietaire-d-une-nissan/manuels-utilisation/manuels/iom/xtrailepower/ht33/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fr/fr/xtrailepower_ht33_e0_2023/pdf/om23fr-ht33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "4",
+              "lang_id": "4",
+              "lang_name": "Italiano",
+              "lang_code": "it",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/italy_mFfT8F9.png",
+              "weburl": "https://www.nissan.it/servizi/manuali-per-il-proprietario-nissan/manuali/iom/xtrailepower/ht33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/it/it/xtrailepower_ht33_e0_2023/pdf/om23it-ht33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "5",
+              "lang_id": "5",
+              "lang_name": "Espanol",
+              "lang_code": "es",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/spain_qyfha6g.png",
+              "weburl": "https://www.nissan.es/propietarios/manuales-del-propietario/manual-del-propietario/iom/xtrailepower/ht33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/es/es/xtrailepower_ht33_e0_2023/pdf/om23es-ht33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "6",
+              "lang_id": "6",
+              "lang_name": "Nederlands",
+              "lang_code": "nl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/netherlands_Vwu35yA.png",
+              "weburl": "https://www.nissan.nl/Services/gebruikershandleidingen/handleidingen/iom/xtrailepower/ht33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/nl/nl/xtrailepower_ht33_e0_2023/pdf/om23nl-ht33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "7",
+              "lang_id": "8",
+              "lang_name": "Svenska",
+              "lang_code": "sv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/sweden_MfMdO2I.png",
+              "weburl": "https://www.nissan.se/agande/agarmanualer/manueler/iom/xtrailepower/ht33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/se/sv/xtrailepower_ht33_e0_2023/pdf/om23sv-ht33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "8",
+              "lang_id": "9",
+              "lang_name": "Norsk",
+              "lang_code": "no",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/norway_arcrFio.png",
+              "weburl": "https://www.nissan.no/eierskap/brukerhandboker/instruksjonsboker/iom/xtrailepower/ht33/e1/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/no/no/xtrailepower_ht33_e0_2023/pdf/om23no-ht33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "9",
+              "lang_id": "10",
+              "lang_name": "Polski",
+              "lang_code": "pl",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "https://www.nissan.pl/dla-wlasciciela/instrukcje-obslugi/instruktionsboger/iom/xtrailepower/ht33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pl/pl/xtrailepower_ht33_e0_2023/pdf/om23pl-ht33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "10",
+              "lang_id": "11",
+              "lang_name": "Suomi",
+              "lang_code": "fi",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/finland_ceBsZl1.png",
+              "weburl": "https://www.nissan.fi/omistajuus/omistajan-kasikirjat/kayttoohjekirjat/iom/xtrailepower/ht33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/fi/fi/xtrailepower_ht33_e0_2023/pdf/om23fi-ht33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "11",
+              "lang_id": "12",
+              "lang_name": "Portugues",
+              "lang_code": "pt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/poland_v8mTCBS.png",
+              "weburl": "https://www.nissan.pt/clientes/manuais-do-propriet%C3%A1rio-da/manuais/iom/xtrailepower/ht33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/pt/pt/xtrailepower_ht33_e0_2023/pdf/om23pt-ht33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "12",
+              "lang_id": "21",
+              "lang_name": "Dansk",
+              "lang_code": "da",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/dk_Y2xTQdX.png",
+              "weburl": "https://www.nissan.dk/ejerskab/instruktionsboger/instruktionsboger/iom/xtrailepower/ht33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/dk/da/xtrailepower_ht33_e0_2023/pdf/om23da-ht33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "13",
+              "lang_id": "24",
+              "lang_name": "Eesti keel",
+              "lang_code": "et",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/ee_3213okP.png",
+              "weburl": "https://www.nissan.ee/omamine/omaniku-kasiraamatud/omaniku-kasiraamatud/iom/xtrailepower/ht33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/ee/et/xtrailepower_ht33_e0_2023/pdf/om23et-ht33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "14",
+              "lang_id": "25",
+              "lang_name": "Latviski",
+              "lang_code": "lv",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lv_S9hYaZS.png",
+              "weburl": "https://www.nissan.lv/nissan-automobilu-ipasniekiem/ipasnieka-rokasgramatas/rokasgramatas/iom/xtrailepower/ht33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lv/lv/xtrailepower_ht33_e0_2023/pdf/om23lv-ht33e0eur.pdf",
+              "status": "2"
+            },
+            {
+              "id": "15",
+              "lang_id": "26",
+              "lang_name": "Lietuviu",
+              "lang_code": "lt",
+              "flag": "http://213.136.27.246:8084/assets/media/language_flag/lt_n6KLgDG.png",
+              "weburl": "https://www.nissan.lt/savininkui/instrukcijos/naudotoju-vadovai/iom/xtrailepower/ht33/e0/2023.shtml",
+              "pdfurl": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/lt/lt/xtrailepower_ht33_e0_2023/pdf/om23lt-ht33e0eur.pdf",
+              "status": "2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
