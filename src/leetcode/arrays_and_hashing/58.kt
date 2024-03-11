@@ -22,5 +22,4 @@ class Solution58 {
     }
     fun lengthOfLastWordOneLine(s: String): Int = s.trim().split(" ").last().length
 
-
 }
