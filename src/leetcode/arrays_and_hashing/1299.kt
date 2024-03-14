@@ -10,7 +10,7 @@ import kotlin.math.max
  *
  * Category : Array and Hashing
  *
- * @see [Leetcode_1299](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/)
+ * @see <a href="https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/">1299. Replace Elements with Greatest Element on Right Side</a>
  */
 class Solution1299 {
 

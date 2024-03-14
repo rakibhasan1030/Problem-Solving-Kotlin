@@ -7,9 +7,9 @@ package leetcode.arrays_and_hashing
  *
  * Category : Array and Hashing
  *
- * @see [Leetcode_58](https://leetcode.com/problems/longest-common-prefix/description/)
- *
+ * @see <a href="https://leetcode.com/problems/longest-common-prefix/description/">14. Longest Common Prefix</a>
  */
+
 class Solution14 {
     fun longestCommonPrefix(strs: Array<String>): String {
         return ""

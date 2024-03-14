@@ -7,7 +7,7 @@ package leetcode.arrays_and_hashing
  *
  * Category : Array and Hashing
  *
- * @see [Leetcode_392](https://leetcode.com/problems/is-subsequence/description/)
+ * @see <a href="https://leetcode.com/problems/is-subsequence/description/">392. Is Subsequence</a>
  */
 class Solution392 {
     fun isSubsequenceOptimal(s: String, t: String): Boolean {

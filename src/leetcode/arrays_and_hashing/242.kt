@@ -7,7 +7,7 @@ package leetcode.arrays_and_hashing
  *
  * Category : Array and Hashing
  *
- * @see [Leetcode_242](https://leetcode.com/problems/valid-anagram/description/)
+ * @see <a href="https://leetcode.com/problems/valid-anagram/description/">242. Valid Anagram</a>
  */
 class Solution242 {
     fun isAnagramBruteForce(s: String, t: String): Boolean {

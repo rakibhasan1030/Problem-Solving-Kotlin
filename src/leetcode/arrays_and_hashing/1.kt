@@ -10,16 +10,16 @@ import kotlin.math.abs
  *
  * Category : Array and Hashing
  *
- * @see [Leetcode_58](https://leetcode.com/problems/two-sum/description/)
+ * @see <a href="https://leetcode.com/problems/two-sum/description/">1. Two Sum</a>
  *
  */
 
 class Solution1 {
     fun twoSumBruteForce(nums: IntArray, target: Int): IntArray {
         val res = IntArray(2)
-        for (i in nums.indices){
-            for (j in i+1..< nums.size){
-                if ((nums[i] + nums[j]) == target){
+        for (i in nums.indices) {
+            for (j in i + 1..<nums.size) {
+                if ((nums[i] + nums[j]) == target) {
                     res[0] = i
                     res[1] = j
                 }
@@ -30,7 +30,7 @@ class Solution1 {
 
     fun twoSumBruteOptimalWithHashing(nums: IntArray, target: Int): IntArray {
         val map = HashMap<Int, Int>()
-        for (i in nums.indices){
+        for (i in nums.indices) {
             val element = nums[i]
             val require = target - element
             if (map.contains(require)) return intArrayOf(map[require]!!, i)

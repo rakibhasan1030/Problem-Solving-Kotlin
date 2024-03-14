@@ -7,7 +7,7 @@ package leetcode.arrays_and_hashing
  *
  * Category : Array and Hashing
  *
- * @see [Leetcode_217](https://leetcode.com/problems/contains-duplicate/description/)
+ * @see <a href="https://leetcode.com/problems/contains-duplicate/description/">217. Contains Duplicate</a>
  */
 class Solution217 {
     fun containsDuplicateBruteForce(nums: IntArray): Boolean {

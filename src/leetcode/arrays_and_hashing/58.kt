@@ -8,7 +8,7 @@ package leetcode.arrays_and_hashing
  *
  * Category : Array and Hashing
  *
- * @see [Leetcode_58](https://leetcode.com/problems/length-of-last-word/description/)
+ * @see <a href="https://leetcode.com/problems/length-of-last-word/description/">58. Length of Last Word</a>
  */
 class Solution58 {
     fun lengthOfLastWordBruteForce(s: String): Int {

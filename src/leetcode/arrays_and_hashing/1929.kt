@@ -1,6 +1,5 @@
 package leetcode.arrays_and_hashing
 
-
 /**
  * Problem No. 1929
  *
@@ -8,7 +7,7 @@ package leetcode.arrays_and_hashing
  *
  * Category : Array and Hashing
  *
- * @see [Leetcode_1929](https://leetcode.com/problems/concatenation-of-array/description/)
+ * @see <a href="https://leetcode.com/problems/concatenation-of-array/description/">1929. Concatenation of Array</a>
  */
 class Solution1929 {
     fun getConcatenationBruteForce(nums: IntArray): IntArray {
