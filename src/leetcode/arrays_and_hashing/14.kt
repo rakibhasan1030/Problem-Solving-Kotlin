@@ -12,6 +12,9 @@ package leetcode.arrays_and_hashing
 
 class Solution14 {
     fun longestCommonPrefix(strs: Array<String>): String {
+        for(i in strs.indices){
+            println(strs[i])
+        }
         return ""
     }
 }
