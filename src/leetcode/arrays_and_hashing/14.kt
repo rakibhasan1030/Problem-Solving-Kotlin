@@ -11,10 +11,19 @@ package leetcode.arrays_and_hashing
  */
 
 class Solution14 {
+
+    // "flower", "flow", "flight"
     fun longestCommonPrefix(strs: Array<String>): String {
-        for(i in strs.indices){
-            println(strs[i])
+        val first = strs[0]
+        var result = ""
+        for(i in first.indices){
+            var isMatched = false
+            for (j in 1..<strs.size){
+                if (first[i] == strs[j][i]) {
+                    result += first[i]
+                } else return result
+            }
         }
-        return ""
+        return result
     }
 }
